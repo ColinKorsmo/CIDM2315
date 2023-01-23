@@ -8,7 +8,6 @@ class Program
         Console.WriteLine("Colin Korsmo");
         Console.WriteLine("Homework 1");
 
-        //equation integers
         //this is the value of x
         double x = 2.5;
         //this is the value of y
